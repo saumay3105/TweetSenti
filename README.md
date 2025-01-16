@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-This repository contains the implementation of a Twitter Sentiment Analysis project. The project aims to classify the sentiment of tweets as positive or negative using machine learning techniques.
+This repository contains the implementation of a Twitter Sentiment Analysis project. The project aims to classify the sentiment of tweets as positive or negative using Logistic Regression.
 
 ## Files in the Repository
 
